@@ -1,0 +1,11 @@
+Hi,
+
+Found your files randomly, i have try ur code on my machine , but there is an error on line 25 of SimpleChord.java
+
+// 		GlobalVar.myconnectionPort=Short.parseShort(args[1]);
+
+Error is 
+
+//Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 1
+	at core.SimpleChord.main(SimpleChord.java:25)
+Java Result: 1
